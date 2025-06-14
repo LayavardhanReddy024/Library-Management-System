@@ -26,15 +26,25 @@ A **web-based Library Management System** designed to streamline library operati
 
 ## 🗂️ Project Structure
 /LibraryManagementSystem
+
 ├── /src
+
 │ ├── /controllers (Servlets)
+
 │ ├── /models (Java Beans)
+
 │ ├── /dao (Database Access Objects)
+
 │ └── /views (JSP Pages)
+
 ├── /web
+
 │ ├── /css
+
 │ └── /images (if any)
+
 ├── /lib (JDBC Connector)
+
 └── /WEB-INF (web.xml)
 
 
